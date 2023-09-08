@@ -1,0 +1,26 @@
+#menu {
+  display: flex;
+  background-color: pink;
+  padding: 20px;
+  border-radius: 15px;
+  width: 90%;
+  height: 40px;
+}
+.menuBarra {
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.logoHome {
+  display: flex;
+  width: 50px;
+  height: 50px;
+  padding: 15px;
+}
+.menuOpciones {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
